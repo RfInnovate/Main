@@ -396,6 +396,12 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 
+h2{
+	font-size: 24px;
+	margin:50px 30px 0px 0px;
+	text-align: center;
+}
+
 p {
 	margin: 0;
 }
@@ -406,6 +412,10 @@ dfn, cite, em, i {
 
 blockquote {
 	margin: 0 1.5em;
+}
+
+.bullte-points{
+	font-size: 20px;
 }
 
 address {
@@ -1290,6 +1300,11 @@ ul > li {
     -o-transition: all 0.5s ease;
     -ms-transition: all 0.5s ease;
     transition: all 0.5s ease;
+}
+
+.img-wrap{
+	max-width:370;
+	max-height:246;
 }
 
 /*======Event UPcomming========*/
